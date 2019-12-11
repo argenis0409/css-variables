@@ -1,14 +1,16 @@
 # CSS variables 
-Mini project built with JS, HTML & CSS.
-
-## General Info
-You can set the Blur or Spacing of the picture.
-You can also change the color of the border, responsive UI.
+Built with JS, HTML & CSS.
 
 ## Setup
-Clone/Download the repo onto your local machine.
-To see it live just open it on your browser.
+Clone/Download the repo onto your local machine then run the following commands:
+```
+npm install
+```
+```
+npm start
+```
 
-## Note:
-More options and features coming soon.
-Stay tune.
+## General Info
+Once you run those commands click on the localhost and open the project in your browser.
+You can set the Blur or Spacing of the picture.
+You can also change the color of the border, responsive UI.
